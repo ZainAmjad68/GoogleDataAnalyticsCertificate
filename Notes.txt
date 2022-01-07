@@ -1,0 +1,22 @@
+Google Data Analytics Certificate
+
+Data is a collection of facts.
+
+Data Analytics is the collection, transformation and orgranization of data in order to draw conclusions, make predictions and drive informed decision-making.
+
+And Data evolves so we can get new info throughout data's entire life cycle.
+
+Examples of Data Analysis: seeing reviews of a product before buying, using fitness trackers to count your steps
+
+Different Processes for Data Analysis:
+-> Ask
+-> Prepare
+-> Process
+-> Analyze
+-> Share
+-> Act
+
+Different Areas where Analyst skills are useful:
+Finance, Healthcare, Communications, Government, Consumer Products
+
+Computer + Your Brain + Your Skills + Your Traits = Job Success
