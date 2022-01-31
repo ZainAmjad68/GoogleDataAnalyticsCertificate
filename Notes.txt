@@ -1,12 +1,16 @@
 Google Data Analytics Certificate
 
-Data is a collection of facts.
+Week 1:
+
+Data is a collection of facts. 
+Analysis means turning data into insights.
+Once we have insights, they are shared with others, decisions are made based on them, and businesses take action.
 
 Data Analytics is the collection, transformation and orgranization of data in order to draw conclusions, make predictions and drive informed decision-making.
 
 And Data evolves so we can get new info throughout data's entire life cycle.
 
-Examples of Data Analysis: seeing reviews of a product before buying, using fitness trackers to count your steps
+Examples of Data Analysis in real life: seeing reviews of a product before buying, using fitness trackers to count your steps,
 
 Different Processes for Data Analysis:
 -> Ask
@@ -16,7 +20,118 @@ Different Processes for Data Analysis:
 -> Share
 -> Act
 
+A variation of it is EMC Corporation's data analytics life cycle, which is cyclical with six steps:
+1. Discovery
+2. Pre-processing data
+3. Model planning
+4. Model building
+5. Communicate results
+6. Operationalize 
+Another popular life cycle is SAS's iterative life cycle which has the following phases:
+1. Ask
+2. Prepare
+3. Explore
+4. Model
+5. Implement
+6. Act
+7. Evaluate 
+project-based data analytics life cycle has five simple steps:
+1. Identifying the problem
+2. Designing data requirements
+3. Pre-processing data
+4. Performing data analysis
+5. Visualizing data
+
+Big data analytics life cycle:
+1. Business case evaluation
+2. Data identification
+3. Data acquisition and filtering
+4. Data extraction
+5. Data validation and cleaning 
+6. Data aggregation and representation
+7. Data analysis
+8. Data visualization
+9. Utilization of analysis results 
+
+
+
 Different Areas where Analyst skills are useful:
 Finance, Healthcare, Communications, Government, Consumer Products
 
 Computer + Your Brain + Your Skills + Your Traits = Job Success
+
+Why Businesses need Data?:
+- Improve Processes
+- Identify Opportunities and Trends
+- Launch New Products
+- Serve Customers
+- Make thoughtful decisions
+
+Types of Analytics:
+- Descriptive: Tell you what happened in the past but not why it happened. Examples: Dashboards, Scorecards and Alerts.
+- Predictive: Use past data to model future outcomes. Examples: How customers would react to certain marketing tactics or how sales would be affected in certain conditions.
+- Prescriptive: Use optimization techniques or A | B testing to advise managers how best to do their jobs. Examples: how much discount to offer to attract, what kind of ads to display to get clicks.
+
+Analytic Models:
+- DELTA Model: Data (clean, accessible, unique), Enterprise Wide Focus, Leaders, Targets, Analysts
+
+Examples of how businesses used Analytics to improve their processes: https://online.hbs.edu/blog/post/business-analytics-examples
+
+Data Science Sub-Disciplines:
+- Machine Learning (use when you want to automate i.e.; make many many decisions under uncertainty) [Performance is the focus]
+- Analytics (use when you're looking for inspiration and don't know how many decisions you want to make; and want to encounter your unknown unknowns; and understand your world) [Speed is the focus]
+- Statistics (use when you want to make few important decisions under uncertainty) [Care and Rigor to avoid bad decisions is focus]
+
+
+Data Ecosystems: elements that interact with one another in order to produce, manage, store, organize, analyze, and share data?
+
+Data Science vs Data Analytics:
+Data Science is Creating new ways of modeling and understanding the unknowns by using raw data.
+Data Scientists create new questions using data, while analysts find answers to existing questions by creating insights from data sources.
+
+Data driven decision making needs Subject Matter Experts to identify any inconsistencies, make sense of gray areas and validate choices being made.
+
+Data + Business Knowledge is the best possible combination for projects.
+
+
+
+Key Data Analyst Skills:
+-> Curiosity
+-> Understanding Context (identifying out of place data)
+-> Technical Mindset (breaking things down into smaller steps and work in a logical way)
+-> Data Design (how you organize information)
+-> Data Strategy (management of people, processes and tools in data analysis)
+
+
+Analytical Thinking:
+Identifying and defining a problem and then solving it using data in an organized step-by-step manner.
+
+Five key aspects to Analytical Thinking:
+- Visualization (visual representation of info)
+- Strategy (what you want to achieve with the data and how to get there)
+- Problem-Orientation (keep problem top of mind throughout the process)
+- Correlation (correlation does not mean causation)
+- Big picture and detail-oriented thinking (helps you zoom out and see possibilities and opportunities that result in you getting new exciting ideas)
+
+Most common question Data Analytics face: 
+
+1. What is the root cause of the problem? 	How to answer it: Five Whys Process i.e.;	 Ask WHY 5 times.
+
+Example:
+You wanted to make a blueberry pie but couldn't find any blueberries. So you want to find the root cause of that problem.
+Why #1: Why can't I make a blueberry pie? Answer: There are no blueberries at the store.
+Why #2: Why were there no blueberries at the store? Answer: Blueberry bushes don't have enough fruit this season. 
+Why #3: Why was there not enough fruit? Answer: Birds were eating all the berries.
+Why #4: Why were the birds eating Blueberries? Answer: Although the birds normally prefer mulberries and don't eat blueberries, the mulberry bush didn't produce fruit this season, so the birds are eating blueberries instead. 
+Why #5: Why did the mulberry bush not produce fruit this season? Answer: A late frost damaged the mulberry bushes, so it didn't produce any fruit.
+
+Thus, the Root Cause of your problem: You can't make a blueberry pie because of the late frost months ago.
+
+
+2. Where are the gaps in our process? How to answer it: Gap Analysis.
+
+Gap Analysis: A method for examining and evaluating how a process works and where you are currently in order to get where you want to be in the future.
+
+3. What did we not consider before? How to answer: Think about any information or procedure missing from the process.
+
+
