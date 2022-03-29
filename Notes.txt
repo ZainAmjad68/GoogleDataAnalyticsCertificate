@@ -1,24 +1,35 @@
 Google Data Analytics Certificate
 
-Week 1:
+Course 1:
 
 Data is a collection of facts. 
 Analysis means turning data into insights.
 Once we have insights, they are shared with others, decisions are made based on them, and businesses take action.
 
-Data Analytics is the collection, transformation and orgranization of data in order to draw conclusions, make predictions and drive informed decision-making.
+Data Analytics is the collection, transformation and organisation of data in order to draw conclusions, make predictions and drive informed decision-making.
 
 And Data evolves so we can get new info throughout data's entire life cycle.
 
 Examples of Data Analysis in real life: seeing reviews of a product before buying, using fitness trackers to count your steps,
 
 Different Processes for Data Analysis:
--> Ask
--> Prepare
--> Process
--> Analyze
--> Share
--> Act
+-> Ask (define the problem to be solved; fully understand stakeholders expectations)
+-> Prepare (collect and store data [objective and unbiased]; know which type of type is more useful for which type of analysis)
+-> Process (find and eliminate errors and inaccuracies of data i.e.; cleaning and transforming data into a more useful format; combining two or more datasets to make info more complete and removing outliers)
+-> Analyze (using tools to transform and organize info so you can draw useful conclusions, make predictions and drive informed decision-making) [Spreadsheet and SQL]
+-> Share (interpret results and share with other stakeholders) [Visualizations]
+-> Act (put the insights gained into action)
+
+Why go through the Data Process:
+Data analysts get so excited about just diving right into the data and doing what they do best. The challenge is that if we don't work through the process in its entirety, if we try to skip steps, we're not going to be able to elicit the insights that we're looking for.
+
+Example of Data Process:
+Questions to ASK: What is the problem that we're trying to solve? What is the purpose of this analysis? What are we hoping to learn from it? 
+Data to PREPARE: quantitative data or qualitative data? cross-sectional or points in time versus longitudinal over a long period of time. Also have to think about how we're going to collect that data or if we need to collect that data.
+PROCESS the Information: In this part, we run through all of our quality assurance checks. For example, do we have all of the data that we anticipated we would have? Are we missing data at random or is it missing in a systematic way such that maybe something went wrong with our data collection effort? If needed, did we code all of our data the right way? Are there any outliers that we need to treat differently? This is the part where we spend a lot of time really digging deeply into the structure and nuance of the data to make sure that you're able to analyze it appropriately and responsibly.
+ANALYZING: Run through a series of analyses that we've already planned ahead of time based on the questions that we know we want to answer from the very, very beginning of the process. Keep in mind, we Data Analysts are storytellers, but we also have to keep in mind that it is not our story to tell. That story belongs to the data, and it is our job as analysts to amplify and tell that story in as unbiased and objective a way as possible. 
+SHARING Results: First, share the high-level findings with executive team. We want them to have a landscape view of what the outcome of the analysis indicates, and we want to make sure that there aren't any surprises as they dig deeper and deeper into the data to understand it.
+ACT on insights: Use all of those data-driven insights to decide what types of interventions we want to introduce
 
 A variation of it is EMC Corporation's data analytics life cycle, which is cyclical with six steps:
 1. Discovery
@@ -118,14 +129,14 @@ Most common question Data Analytics face:
 1. What is the root cause of the problem? 	How to answer it: Five Whys Process i.e.;	 Ask WHY 5 times.
 
 Example:
-You wanted to make a blueberry pie but couldn't find any blueberries. So you want to find the root cause of that problem.
-Why #1: Why can't I make a blueberry pie? Answer: There are no blueberries at the store.
-Why #2: Why were there no blueberries at the store? Answer: Blueberry bushes don't have enough fruit this season. 
-Why #3: Why was there not enough fruit? Answer: Birds were eating all the berries.
-Why #4: Why were the birds eating Blueberries? Answer: Although the birds normally prefer mulberries and don't eat blueberries, the mulberry bush didn't produce fruit this season, so the birds are eating blueberries instead. 
-Why #5: Why did the mulberry bush not produce fruit this season? Answer: A late frost damaged the mulberry bushes, so it didn't produce any fruit.
+You wanted to make a blueberry pie but couldn't find any blueberries. So you want to find the root cause of that problem.
+Why #1:  Why can't I make a blueberry pie? Answer: There are no blueberries at the store. 
+Why #2: Why were there no blueberries at the store? Answer: Blueberry bushes don't have enough fruit this season. 
+Why #3: Why was there not enough fruit? Answer: Birds were eating all the berries.
+Why #4: Why were the birds eating Blueberries? Answer: Although the birds normally prefer mulberries and don't eat blueberries, the mulberry bush didn't produce fruit this season, so the birds are eating blueberries instead. 
+Why #5: Why did the mulberry bush not produce fruit this season? Answer: A late frost damaged the mulberry bushes, so it didn't produce any fruit. 
 
-Thus, the Root Cause of your problem: You can't make a blueberry pie because of the late frost months ago.
+Thus, the Root Cause of your problem: You can't make a blueberry pie because of the late frost months ago.
 
 
 2. Where are the gaps in our process? How to answer it: Gap Analysis.
@@ -135,3 +146,117 @@ Gap Analysis: A method for examining and evaluating how a process works and wher
 3. What did we not consider before? How to answer: Think about any information or procedure missing from the process.
 
 
+Stages of Data Life Cycle:
+Plan (what data is needed, how it will be managed, who's responsible for it, the optimal outcomes)
+Capture (data collected from diff sources [public datasets, company databases,])
+Manage (how and where data is stored, tools used to make it secure, and actions taken to make sure its maintained properly)
+Analyze (solve problems, make decisions, and help business cause)
+Archive (storing data that will possibly not be used again ever)
+Destroy (use data erasure software, shred files too)
+
+
+Some Variations of Data Life Cycle:
+Harvard Business School (HBS):  Generation, Collection, Processing, Storage, Management, Analysis, Visualization Financial institutions: Capture, Qualify, Transform, Utilize, Report, Archive, Purge 
+
+Exploring Data Analyst Tools:
+Spreadsheets: a digital worksheet that stores, organizes, and sorts data. The usefulness of your data depends on how well it's structured. When you put your data into a spreadsheet, you can see patterns, group information and easily find the information you need.
+Query Languages: computer programming language that allows you to retrieve and manipulate data from a database. With SQL, data analysts can access the data they need by making a query. Although query means question, I like to think of it as more of a request. So you're requesting that the database do something for you.
+Visualization Tools: Some popular visualization tools are Tableau and Looker. Data analysts like using Tableau because it helps them create visuals that are very easy to understand. This means that even non-technical users can get the information they need. Looker is also popular with data analysts because it gives them an easy way to create visuals based on the results of a query. With Looker, you can give stakeholders a complete picture of your work
+
+Spreadsheets	Databases
+Software applications	Data stores - accessed using a query language (e.g. SQL)
+Structure data in a row and column format	Structure data using rules and relationships
+Organize information in cells	Organize information in complex collections
+Provide access to a limited amount of data	Provide access to huge amounts of data
+Manual data entry	Strict and consistent data entry
+Generally one user at a time	Multiple users
+Controlled by the user	Controlled by a database management system
+
+Spreadsheet Basics:
+An attribute is a characteristic or quality of data used to label a column in a table. 
+
+An observation includes all of the attributes for something contained in a row of a data table.
+
+A formula is a set of instructions that performs a specific action using the data in a spreadsheet. 
+
+
+SQL Basics:
+
+A query is a request for data or information from a database. When you query databases, you use SQL to communicate your question or request. 
+
+The syntax of every SQL query is the same: 
+* Use SELECT to choose the columns you want to return.
+* Use FROM to choose the tables where the columns you want are located.
+* Use WHERE to filter for certain information. 
+
+Steps to plan a data visualization:
+
+A real-life situation where a data analyst might need to create a data visualization to share with stakeholders: Imagine you’re a data analyst for a clothing distributor. The company helps small clothing stores manage their inventory, and sales are booming. One day, you learn that your company is getting ready to make a major update to its website. To guide decisions for the website update, you’re asked to analyze data from the existing website and sales records. 
+
+Step 1: Explore the data for patterns:
+you ask your manager or the data owner for access to the current sales records and website analytics reports. you notice a pattern among those who visit the company’s website most frequently: geography and larger amounts spent on purchases. this information might explain why sales are so strong and help find ways to make them even stronger through the new website. 
+Step 2: Plan your visuals:
+* Show sales numbers over time
+* Connect sales to location
+* Show the relationship between sales and website use
+* Show which customers fuel growth
+Step 3: Create your visuals:
+try different visualization formats and making adjustments until you get what you are looking for. 
+￼
+
+
+Being Fair and Handling Bias:
+Fairness means ensuring that your analysis doesn't create or reinforce bias.
+As a data analyst it's your responsibility to make sure your analysis is fair and factors in the complicated social context that could create bias in your conclusions.
+
+
+Data Analyst Roles and Job Descriptions:
+￼
+
+Job specializations by industry 
+
+* Marketing analyst — analyzes market conditions to assess the potential sales of products and services 
+* HR/payroll analyst — analyzes payroll data for inefficiencies and errors
+* Financial analyst — analyzes financial status by collecting, monitoring, and reviewing data
+* Risk analyst — analyzes financial documents, economic conditions, and client data to help companies determine the level of risk involved in making a particular business decision
+* Healthcare analyst — analyzes medical data to improve the business aspect of hospitals and medical facilities
+* Business analyst — analyzes data to improve business operations, efficiencies, or the bottom line
+
+
+
+Course 2:
+
+Asking Effective Questions:
+
+Effective Problem Solving:
+
+Common Problem Types:
+- Making Predictions (informed decision about how things will be in the future; e.g.; take vitals and predict health events)
+- Categorizing Things (assigning info to different groups based on features; e.g.; classify customer service calls based on certain keywords or scores)
+- Spotting something unusual (study cause and effect of something different from the norm)
+- Identifying Themes (grouping info into broader concepts)
+- Discovering Connections (find similar challenges faced by different entitites)
+- Finding Patterns (use historical data to guess what is likely to happen again)
+
+How to ask effective Questions:
+
+use SMART methodology.
+
+￼
+Example:
+What features do people look for when buying a new car?
+* Specific: Does the question focus on a particular car feature?
+* Measurable: Does the question include a feature rating system?
+* Action-oriented: Does the question influence creation of different or new feature packages?
+* Relevant: Does the question identify which features make or break a potential car purchase?
+* Time-bound: Does the question validate data on the most popular features from the last three years?  
+So, based on the thought process, possible SMART questions might be:
+* On a scale of 1-10 (with 10 being the most important) how important is your car having four-wheel drive?
+* What are the top five features you would like to see in a car package?
+* What features, if included with four-wheel drive, would make you more inclined to buy the car?
+* How much more would you pay for a car with four-wheel drive?
+* Has four-wheel drive become more or less popular in the last three years?
+
+
+
+Data-inspired decision making: explore different data sources to see what they have in common
